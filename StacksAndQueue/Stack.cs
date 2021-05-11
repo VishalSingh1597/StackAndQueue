@@ -26,7 +26,7 @@ namespace StacksAndQueue
         }
 
         // UC1:- Ability to create a Stack of 56->30->70.
-         
+          
 
 
         public void Push(int data) //create method Push/Add element in stack 
@@ -82,8 +82,6 @@ namespace StacksAndQueue
             }
             Display();
         }
-
-
 
         public void Display() //create Display method print elements from the stack
         {
