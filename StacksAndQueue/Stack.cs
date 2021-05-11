@@ -47,8 +47,8 @@ namespace StacksAndQueue
 
         }
 
-        //UC2:- Ability to peek and pop from the Stack till it is empty 56 ->30 ->70.
-
+        // UC2:- Ability to peek and pop from the Stack till it is empty 56 ->30 ->70.
+          
 
         public void Peek()
         {

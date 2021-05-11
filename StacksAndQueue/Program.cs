@@ -31,6 +31,11 @@ namespace StacksAndQueue
             queue.Peek(); //call Display method Display Top of the element in Queue  //UC1
 
 
+
+            queue.Dequeue(); //call Dequeue method //UC2
+            queue.IsEmpty(); //call IsEmpty method //UC2
+
+
             Console.ReadLine();
         }
     }

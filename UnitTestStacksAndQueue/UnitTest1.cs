@@ -39,7 +39,6 @@ namespace UnitTestStacksAndQueue
         //UC3 Queue
         public void TestingPeekinQueue()
         {
-
             Queue queue = new Queue(); //create object of Queue class
             queue.Enqueue(56); //add element in queue
             queue.Enqueue(30);
